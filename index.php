@@ -1,4 +1,4 @@
 <?php 
 
 
-echo 'Hello Git Test';
+echo 'Hello Git';
